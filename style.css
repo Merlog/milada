@@ -131,3 +131,9 @@ a.active {color: #F3CF9D;}
     li {padding-left: 0; background-image: none;}
 }
 */
+
+.flag {
+    display:flex;
+    justify-content: flex-end;
+    margin-bottom: 5px;
+}
